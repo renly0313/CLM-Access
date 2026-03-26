@@ -1,5 +1,5 @@
 
-# CLM-Access: A Specialized Foundation Model for High-Dimensional Single-Cell ATAC-Seq analysis
+# CLM-X: A multimodal single-cell foundation model with flexible multi-way Transformer for unified scRNA-seq and scATAC-seq analysis
 
 This repository is the official implementation of CLM-access:A specialized foundation model provides a brand-new solution for high-dimensional single-cell ATAC-seq data. 
 
